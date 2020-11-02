@@ -31,11 +31,11 @@ class Home extends React.Component{
                             <div class="collapse navbar-collapse" id="megaone">
                                 <div class="navbar-nav ml-auto">
                                     <a class="nav-link scroll" href="#home">Home</a>
-                                    <a class="nav-link scroll" href="#creative">Creative</a>
-                                    <a class="nav-link scroll" href="#social">Social</a>
-                                    <a class="nav-link scroll" href="#seo">SEO</a>
-                                    <a class="nav-link scroll" href="#marketing">Marketing</a>
-                                    <a class="nav-link scroll" href="#agency">Innovative</a>
+                                    <a class="nav-link scroll" href="#bumn">BUMN Go Digital</a>
+                                    <a class="nav-link scroll" href="#startup">Startup</a>
+                                    <a class="nav-link scroll" href="#softwareengineer">Software Engineer</a>
+                                    <a class="nav-link scroll" href="#it">IT</a>
+                                    <a class="nav-link scroll" href="#donasi">Donasi</a>
                                 </div>
                             </div>
 
@@ -55,22 +55,22 @@ class Home extends React.Component{
                             <nav class="side-nav w-100">
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#home">Home</a>
+                                        <a class="nav-link scroll" href="#home">Beranda</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#creative">Creative</a>
+                                        <a class="nav-link scroll" href="#bumn">BUMN Go Digital</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#social">Social</a>
+                                        <a class="nav-link scroll" href="#startup">Startup</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#seo">SEO</a>
+                                        <a class="nav-link scroll" href="#softwareengineer">Software Engineer</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#marketing">Marketing</a>
+                                        <a class="nav-link scroll" href="#it">IT</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#agency">Innovative</a>
+                                        <a class="nav-link scroll" href="#donasi">Donasi</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -81,7 +81,7 @@ class Home extends React.Component{
                                     <li><a class="instagram-text-hvr" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
                                     <li><a class="twitter-text-hvr" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
                                 </ul>
-                                <p class="text-white">&copy; 2020 MegaOne. Made With Love by Themesindustry</p>
+                                <p class="text-white">&copy; 2020 Sriwijaya Digital. Made With Love by AGT</p>
                             </div>
                         </div>
                     </div>
@@ -98,9 +98,10 @@ class Home extends React.Component{
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-center wow fadeInUp">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        Our <strong>Creative </strong>Studio</h3>
-                                    <p class="text-white font-weight-300">Graphics, Designing, Branding, Development</p>
-                                    <a data-fancybox="group-two" href="innovative/img/single-portfolio1.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Learn More</a>
+                                        <strong>Sriwijaya</strong> Digital Festival</h3>
+                                    <p class="text-white font-weight-300">Persembahan Forum Teknologi Sumatera Selatan</p>
+                                    <p class="text-white font-weight-300">Palembang, 28 - 29 November 2020</p>
+                                    <a data-fancybox="group-two" href="innovative/img/single-portfolio1.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Donasi Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -115,17 +116,18 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item two--> */}
-                <section class="single-items center-block parallax" id="creative" style={{background: "url(innovative/img/single-portfolio2.jpg)"}}>
+                <section class="single-items center-block parallax" id="bumn" style={{background: "url(innovative/img/single-portfolio2.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6"></div>
                             <div class="col-lg-6 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-two" href="innovative/img/single-portfolio2.jpg">Be <strong>Innovative</strong></a>
+                                        <a data-fancybox="group-two" href="innovative/img/single-portfolio2.jpg"><strong>BUMN</strong> Go Digital</a>
                                     </h3>
-                                    <p class="text-white font-weight-300">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today just like.</p>
-                                    <p class="text-white font-weight-300">Nature, Shore, Stars</p>
+                                    <p class="text-white font-weight-300">Sabtu, 28 November 2020 10:00 - 12:00 PT Pupuk Sriwijaya</p>
+                                    <p class="text-white font-weight-300">Sabtu, 28 November 2020 13:00 - 15:00 PT Semen Baturaja</p>
+                                    <p class="text-white font-weight-300">Sabtu, 28 November 2020 16:00 - 18:00 PT Bank Rakyat Indonesia, Tbk</p>
                                 </div>
                             </div>
                         </div>
@@ -146,9 +148,10 @@ class Home extends React.Component{
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-three" href="innovative/img/single-portfolio3.jpg">MegaOne <strong>Studio</strong></a>
+                                        <a data-fancybox="group-three" href="innovative/img/single-portfolio3.jpg">Tambahan Panel</a>
                                     </h3>
-                                    <p class="text-white">Media, Culture, Colors</p>
+                                    <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
+                                    <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
                                     <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="innovative/img/single-portfolio3.jpg">View More</a>
                                 </div>
                             </div>
@@ -164,15 +167,17 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item four--> */}
-                <section class="single-items center-block parallax" id="social" style={{background: "url(innovative/img/single-portfolio4.jpg)"}}>
+                <section class="single-items center-block parallax" id="startup" style={{background: "url(innovative/img/single-portfolio4.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="innovative/img/single-portfolio4.jpg">Social <strong> Market</strong></a>
+                                        <a data-fancybox="group-four" href="innovative/img/single-portfolio4.jpg">Startup<strong> Ecosystem</strong></a>
                                     </h3>
-                                    <p class="text-white">Creative, Branding, Graphics</p>
+                                    <p class="text-white">Minggu, 29 November 2020 - Sofian Hadiwijaya (Warung Pintar)</p>
+                                    <p class="text-white">Minggu, 29 November 2020 - Gibran (eFishery)</p>
+                                    <p class="text-white">Minggu, 29 November 2020 - Farid (Pasar Laut)</p>
                                     <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-four" href="innovative/img/single-portfolio4.jpg">View More</a>
                                 </div>
                             </div>
@@ -188,16 +193,18 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item five--> */}
-                <section class="single-items center-block parallax" id="seo" style={{background: "url(innovative/img/single-portfolio5.jpg)"}}>
+                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(innovative/img/single-portfolio5.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-five" href="innovative/img/single-portfolio5.jpg">MegaOne <strong>SEO</strong></a>
+                                        <a data-fancybox="group-five" href="innovative/img/single-portfolio5.jpg">Software Engineer</a>
                                     </h3>
-                                    <p class="text-white">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs, yesterday. Fonts, just like images.</p>
-                                    <p class="text-white">Fashion, Graphics</p>
+                                    <p class="text-white">Arief Rahmansyah (GOJEK Singapore)</p>
+                                    <p class="text-white">Faisal Morensya (Talabat Dubai)</p>
+                                    <p class="text-white">Zaki Al Farani (Tokopedia)</p>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="innovative/img/single-portfolio5.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -205,15 +212,15 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item six--> */}
-                <section class="single-items center-block parallax" id="marketing" style={{background: "url(innovative/img/single-portfolio6.jpg)"}}>
+                <section class="single-items center-block parallax" id="it" style={{background: "url(innovative/img/single-portfolio6.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-six" href="innovative/img/single-portfolio6.jpg">MegaOne <strong>Marketing</strong> </a>
+                                        <a data-fancybox="group-six" href="innovative/img/single-portfolio6.jpg">Information Technology</a>
                                     </h3>
-                                    <p class="text-white">Fashion, Brands, Colors</p>
+                                    <p class="text-white">Minggu, 29 November 2020 - Roylisto Perdana (Kredivo)</p>
                                     <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-six" href="innovative/img/single-portfolio6.jpg">View More</a>
                                 </div>
                             </div>
@@ -235,10 +242,11 @@ class Home extends React.Component{
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-seven" href="innovative/img/single-portfolio7.jpg">Cultivate <strong>Inspired</strong></a>
+                                        <a data-fancybox="group-seven" href="innovative/img/single-portfolio7.jpg">Tambahan <strong>Panel</strong></a>
                                     </h3>
-                                    <p class="text-white">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs, yesterday. Fonts, just like images.  </p>
-                                    <p class="text-white">Fruits, Vegetables</p>
+                                    <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
+                                    <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="innovative/img/single-portfolio7.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -246,15 +254,16 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item eight--> */}
-                <section class="single-items center-block parallax" id="agency" style={{background: "url(innovative/img/single-portfolio8.jpg)"}}>
+                <section class="single-items center-block parallax" id="donasi" style={{background: "url(innovative/img/single-portfolio8.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-eight" href="innovative/img/single-portfolio8.jpg">Best <strong>Solutions</strong></a>
+                                        <a data-fancybox="group-eight" href="innovative/img/single-portfolio8.jpg">Donasi & <strong>Sponsor</strong></a>
                                     </h3>
-                                    <p class="text-white">Creative, Brandind, Graphics</p>
+                                    <p class="text-white">Disini untuk space untuk para Donator dan Sponsor</p>
+                                    <p class="text-white">Bisa juga untuk space endorse dan sejenisnya</p>
                                     <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="innovative/img/single-portfolio8.jpg">View More</a>
                                 </div>
                             </div>
@@ -276,10 +285,11 @@ class Home extends React.Component{
                             <div class="col-md-5 col-sm-8 col-xs-11">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-nine" href="innovative/img/single-portfolio9.jpg">Small <strong>Businesses</strong></a>
+                                        <a data-fancybox="group-nine" href="innovative/img/single-portfolio9.jpg">Tambahan <strong>Panel</strong></a>
                                     </h3>
-                                    <p class="text-white">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs, yesterday. Fonts, just like images.  </p>
-                                    <p class="text-white">Fruits, Vegetables</p>
+                                    <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
+                                    <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="innovative/img/single-portfolio7.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -309,7 +319,7 @@ class Home extends React.Component{
                                         <li><a class="wow fadeInDown" href="javascript:void(0);"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
-                                <p class="company-about fadeIn">© 2020 MegaOne. Made With Love By <a href="javascript:void(0);">Themesindustry</a></p>
+                                <p class="company-about fadeIn">© 2020 SriwijayaDigital. Made With Love By <a href="javascript:void(0);">AGT</a></p>
                             </div>
                         </div>
                     </div>
