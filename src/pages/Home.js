@@ -92,7 +92,7 @@ class Home extends React.Component{
                 {/* <!--Header end--> */}
 
                 {/* <!--Single portfolio item one--> */}
-                <section class="single-items center-block parallax m-0" id="home" style={{background: "url(innovative/img/single-portfolio1.jpg)"}}>
+                <section class="single-items center-block parallax m-0" id="home" style={{background: "url(https://i.imgur.com/2WUe9UT.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -101,7 +101,7 @@ class Home extends React.Component{
                                         <strong>Sriwijaya</strong> Digital Festival</h3>
                                     <p class="text-white font-weight-300">Persembahan Forum Teknologi Sumatera Selatan</p>
                                     <p class="text-white font-weight-300">Palembang, 28 - 29 November 2020</p>
-                                    <a data-fancybox="group-two" href="innovative/img/single-portfolio1.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Donasi Sekarang</a>
+                                    <a data-fancybox="group-two" href="https://i.imgur.com/2WUe9UT.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Donasi Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -116,14 +116,14 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item two--> */}
-                <section class="single-items center-block parallax" id="bumn" style={{background: "url(innovative/img/single-portfolio2.jpg)"}}>
+                <section class="single-items center-block parallax" id="bumn" style={{background: "url(https://i.imgur.com/r7TjEzq.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6"></div>
                             <div class="col-lg-6 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-two" href="innovative/img/single-portfolio2.jpg"><strong>BUMN</strong> Go Digital</a>
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/r7TjEzq.jpg"><strong>BUMN</strong> Go Digital</a>
                                     </h3>
                                     <p class="text-white font-weight-300">Sabtu, 28 November 2020 10:00 - 12:00 PT Pupuk Sriwijaya</p>
                                     <p class="text-white font-weight-300">Sabtu, 28 November 2020 13:00 - 15:00 PT Semen Baturaja</p>
@@ -142,17 +142,17 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item three--> */}
-                <section class="single-items center-block parallax" id="corporate" style={{background: "url(innovative/img/single-portfolio3.jpg)"}}>
+                <section class="single-items center-block parallax" id="corporate" style={{background: "url(https://i.imgur.com/MFHiV12.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-three" href="innovative/img/single-portfolio3.jpg">Tambahan Panel</a>
+                                        <a data-fancybox="group-three" href="https://i.imgur.com/MFHiV12.jpg">Tambahan Panel</a>
                                     </h3>
                                     <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
                                     <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="innovative/img/single-portfolio3.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="https://i.imgur.com/MFHiV12.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -167,18 +167,18 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item four--> */}
-                <section class="single-items center-block parallax" id="startup" style={{background: "url(innovative/img/single-portfolio4.jpg)"}}>
+                <section class="single-items center-block parallax" id="startup" style={{background: "url(https://i.imgur.com/DfaLATq.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="innovative/img/single-portfolio4.jpg">Startup<strong> Ecosystem</strong></a>
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg">Startup<strong> Ecosystem</strong></a>
                                     </h3>
                                     <p class="text-white">Minggu, 29 November 2020 - Sofian Hadiwijaya (Warung Pintar)</p>
                                     <p class="text-white">Minggu, 29 November 2020 - Gibran (eFishery)</p>
                                     <p class="text-white">Minggu, 29 November 2020 - Farid (Pasar Laut)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-four" href="innovative/img/single-portfolio4.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-four" href="ihttps://i.imgur.com/DfaLATq.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -193,18 +193,18 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item five--> */}
-                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(innovative/img/single-portfolio5.jpg)"}}>
+                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(https://i.imgur.com/RusdbQO.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-five" href="innovative/img/single-portfolio5.jpg">Software Engineer</a>
+                                        <a data-fancybox="group-five" href="https://i.imgur.com/RusdbQO.jpg">Software Engineer</a>
                                     </h3>
                                     <p class="text-white">Arief Rahmansyah (GOJEK Singapore)</p>
                                     <p class="text-white">Faisal Morensya (Talabat Dubai)</p>
                                     <p class="text-white">Zaki Al Farani (Tokopedia)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="innovative/img/single-portfolio5.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="https://i.imgur.com/RusdbQO.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -212,16 +212,16 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item six--> */}
-                <section class="single-items center-block parallax" id="it" style={{background: "url(innovative/img/single-portfolio6.jpg)"}}>
+                <section class="single-items center-block parallax" id="it" style={{background: "url(https://i.imgur.com/uK2OZap.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-six" href="innovative/img/single-portfolio6.jpg">Information Technology</a>
+                                        <a data-fancybox="group-six" href="https://i.imgur.com/uK2OZap.jpg">Information Technology</a>
                                     </h3>
                                     <p class="text-white">Minggu, 29 November 2020 - Roylisto Perdana (Kredivo)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-six" href="innovative/img/single-portfolio6.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-six" href="https://i.imgur.com/uK2OZap.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -236,17 +236,17 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item seven--> */}
-                <section class="single-items center-block item-seven parallax" style={{background: "url(innovative/img/single-portfolio7.jpg)"}}>
+                <section class="single-items center-block item-seven parallax" style={{background: "url(https://i.imgur.com/G0CadAX.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-seven" href="innovative/img/single-portfolio7.jpg">Tambahan <strong>Panel</strong></a>
+                                        <a data-fancybox="group-seven" href="https://i.imgur.com/G0CadAX.jpg">Tambahan <strong>Panel</strong></a>
                                     </h3>
                                     <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
                                     <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="innovative/img/single-portfolio7.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/G0CadAX.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -254,17 +254,17 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item eight--> */}
-                <section class="single-items center-block parallax" id="donasi" style={{background: "url(innovative/img/single-portfolio8.jpg)"}}>
+                <section class="single-items center-block parallax" id="donasi" style={{background: "url(https://i.imgur.com/GNcTlsF.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-eight" href="innovative/img/single-portfolio8.jpg">Donasi & <strong>Sponsor</strong></a>
+                                        <a data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">Donasi & <strong>Sponsor</strong></a>
                                     </h3>
                                     <p class="text-white">Disini untuk space untuk para Donator dan Sponsor</p>
                                     <p class="text-white">Bisa juga untuk space endorse dan sejenisnya</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="innovative/img/single-portfolio8.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -279,17 +279,17 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item nine--> */}
-                <section class="single-items center-block parallax" style={{background: "url(innovative/img/single-portfolio9.jpg)"}}>
+                <section class="single-items center-block parallax" style={{background: "url(https://i.imgur.com/TKiPr3A.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-sm-8 col-xs-11">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-nine" href="innovative/img/single-portfolio9.jpg">Tambahan <strong>Panel</strong></a>
+                                        <a data-fancybox="group-nine" href="ihttps://i.imgur.com/TKiPr3A.jpg">Tambahan <strong>Panel</strong></a>
                                     </h3>
                                     <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
                                     <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="innovative/img/single-portfolio7.jpg">View More</a>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/TKiPr3A.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
