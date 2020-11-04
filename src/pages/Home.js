@@ -101,7 +101,7 @@ class Home extends React.Component{
                                         <strong>Sriwijaya</strong> Digital Festival</h3>
                                     <p class="text-white font-weight-300">Persembahan Forum Teknologi Sumatera Selatan</p>
                                     <p class="text-white font-weight-300">Palembang, 28 - 29 November 2020</p>
-                                    <a data-fancybox="group-two" href="https://i.imgur.com/2WUe9UT.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
+                                    <a href="https://bit.ly/RegistrasiSDF20" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -173,12 +173,22 @@ class Home extends React.Component{
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg">Startup<strong> Ecosystem</strong></a>
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Startup Ecosystem</strong></a>
                                     </h3>
-                                    <p class="text-white">Minggu, 29 November 2020 - Sofian Hadiwijaya (Warung Pintar)</p>
-                                    <p class="text-white">Minggu, 29 November 2020 - Gibran (eFishery)</p>
-                                    <p class="text-white">Minggu, 29 November 2020 - Farid (Pasar Laut)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-four" href="ihttps://i.imgur.com/DfaLATq.jpg">View More</a>
+                                    <h4 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>"Memajukan Kearifan Lokal <br/> (Warung, Tambak Ikan dan Nelayan) <br/> dengan Teknologi"</strong> </a>
+                                    </h4>
+                                    <h5 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Minggu, 29 November 2020 Pukul 13:00 - 14:30</strong></a>
+                                    </h5>
+                        
+                                    <p class="text-white">Pembicara:</p>
+                                    <ul>
+                                        <li class= "text-white">Sofian Hadiwijaya - Co-Founder Warung Pintar</li>
+                                        <li class= "text-white">Gibran Huzaifah - CEO eFishery</li>
+                                        <li class= "text-white">Farid Naufal - CEO Aruna</li>
+                                    </ul>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" href="https://bit.ly/RegistrasiSDF20">View More</a>
                                 </div>
                             </div>
                         </div>
