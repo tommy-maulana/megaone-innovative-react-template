@@ -35,7 +35,7 @@ class Home extends React.Component{
                                     <a class="nav-link scroll" href="#startup">Startup</a>
                                     <a class="nav-link scroll" href="#softwareengineer">Software Engineer</a>
                                     <a class="nav-link scroll" href="#it">IT</a>
-                                    <a class="nav-link scroll" href="#donasi">Donasi</a>
+                                    <a class="nav-link scroll" href="#Daftar">Daftar</a>
                                 </div>
                             </div>
 
@@ -70,7 +70,7 @@ class Home extends React.Component{
                                         <a class="nav-link scroll" href="#it">IT</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#donasi">Donasi</a>
+                                        <a class="nav-link scroll" href="#Daftar">Daftar</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -101,7 +101,7 @@ class Home extends React.Component{
                                         <strong>Sriwijaya</strong> Digital Festival</h3>
                                     <p class="text-white font-weight-300">Persembahan Forum Teknologi Sumatera Selatan</p>
                                     <p class="text-white font-weight-300">Palembang, 28 - 29 November 2020</p>
-                                    <a data-fancybox="group-two" href="https://i.imgur.com/2WUe9UT.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Donasi Sekarang</a>
+                                    <a data-fancybox="group-two" href="https://i.imgur.com/2WUe9UT.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -254,13 +254,13 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item eight--> */}
-                <section class="single-items center-block parallax" id="donasi" style={{background: "url(https://i.imgur.com/GNcTlsF.jpg)"}}>
+                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(https://i.imgur.com/GNcTlsF.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">Donasi & <strong>Sponsor</strong></a>
+                                        <a data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">Daftar & <strong>Sponsor</strong></a>
                                     </h3>
                                     <p class="text-white">Disini untuk space untuk para Donator dan Sponsor</p>
                                     <p class="text-white">Bisa juga untuk space endorse dan sejenisnya</p>
@@ -315,8 +315,8 @@ class Home extends React.Component{
                                         <li><a class="wow fadeInDown" href="javascript:void(0);"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
                                         <li><a class="wow fadeInUp" href="javascript:void(0);"><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
                                         <li><a class="wow fadeInDown" href="javascript:void(0);"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
-                                        <li><a class="wow fadeInUp" href="javascript:void(0);"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                                        <li><a class="wow fadeInDown" href="javascript:void(0);"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+                                        <li><a class="wow fadeInUp" href="https://www.instagram.com/sriwijaya.digital/"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                                        <li><a class="wow fadeInDown" href="https://www.youtube.com/channel/UCd9Y4iUZgfz2y2nYUhIGn0Q/featured?view_as=subscriber"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
                                 <p class="company-about fadeIn">© 2020 SriwijayaDigital. Made With Love By <a href="javascript:void(0);">AGT</a></p>
