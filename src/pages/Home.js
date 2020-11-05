@@ -101,7 +101,7 @@ class Home extends React.Component{
                                         <strong>Sriwijaya</strong> Digital Festival</h3>
                                     <p class="text-white font-weight-300">Persembahan Forum Teknologi Sumatera Selatan</p>
                                     <p class="text-white font-weight-300">Palembang, 28 - 29 November 2020</p>
-                                    <a data-fancybox="group-two" href="https://i.imgur.com/2WUe9UT.jpg" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
+                                    <a href="https://www.eventbrite.com/e/sriwijaya-digital-festival-2020-tickets-127992965405" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
                                 </div>
                             </div>
                         </div>
