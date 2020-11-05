@@ -92,7 +92,7 @@ class Home extends React.Component{
                 {/* <!--Header end--> */}
 
                 {/* <!--Single portfolio item one--> */}
-                <section class="single-items center-block parallax m-0" id="home" style={{background: "url(https://i.imgur.com/2WUe9UT.jpg)"}}>
+                <section class="single-items center-block parallax m-0" id="home" style={{background: "url(innovative/img/single-portfolio1.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -116,7 +116,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item two--> */}
-                <section class="single-items center-block parallax" id="bumn" style={{background: "url(https://i.imgur.com/r7TjEzq.jpg)"}}>
+                <section class="single-items center-block parallax" id="bumn" style={{background: "url(innovative/img/single-portfolio2.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6"></div>
@@ -142,7 +142,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item three--> */}
-                <section class="single-items center-block parallax" id="corporate" style={{background: "url(https://i.imgur.com/MFHiV12.jpg)"}}>
+                <section class="single-items center-block parallax" id="corporate" style={{background: "url(innovative/img/single-portfolio3.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
@@ -167,7 +167,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item four--> */}
-                <section class="single-items center-block parallax" id="startup" style={{background: "url(https://i.imgur.com/DfaLATq.jpg)"}}>
+                <section class="single-items center-block parallax" id="startup" style={{background: "url(innovative/img/single-portfolio4.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -203,7 +203,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item five--> */}
-                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(https://i.imgur.com/RusdbQO.jpg)"}}>
+                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(innovative/img/single-portfolio5.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
@@ -222,7 +222,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item six--> */}
-                <section class="single-items center-block parallax" id="it" style={{background: "url(https://i.imgur.com/uK2OZap.jpg)"}}>
+                <section class="single-items center-block parallax" id="it" style={{background: "url(innovative/img/single-portfolio6.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -246,7 +246,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item seven--> */}
-                <section class="single-items center-block item-seven parallax" style={{background: "url(https://i.imgur.com/G0CadAX.jpg)"}}>
+                <section class="single-items center-block item-seven parallax" style={{background: "url(innovative/img/single-portfolio7.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
@@ -264,7 +264,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item eight--> */}
-                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(https://i.imgur.com/GNcTlsF.jpg)"}}>
+                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(innovative/img/single-portfolio8.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -289,7 +289,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item nine--> */}
-                <section class="single-items center-block parallax" style={{background: "url(https://i.imgur.com/TKiPr3A.jpg)"}}>
+                <section class="single-items center-block parallax" style={{background: "url(innovative/img/single-portfolio9.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-sm-8 col-xs-11">
