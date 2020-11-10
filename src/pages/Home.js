@@ -92,7 +92,7 @@ class Home extends React.Component{
                 {/* <!--Header end--> */}
 
                 {/* <!--Single portfolio item one--> */}
-                <section class="single-items center-block parallax m-0" id="home" style={{background: "url(https://i.imgur.com/2WUe9UT.jpg)"}}>
+                <section class="single-items center-block parallax m-0" id="home" style={{background: "url(innovative/img/single-portfolio1.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -101,7 +101,9 @@ class Home extends React.Component{
                                         <strong>Sriwijaya</strong> Digital Festival</h3>
                                     <p class="text-white font-weight-300">Persembahan Forum Teknologi Sumatera Selatan</p>
                                     <p class="text-white font-weight-300">Palembang, 28 - 29 November 2020</p>
-                                    <a href="https://www.eventbrite.com/e/sriwijaya-digital-festival-2020-tickets-127992965405" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
+
+                                    <a href="https://bit.ly/RegistrasiSDF20" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
+
                                 </div>
                             </div>
                         </div>
@@ -116,7 +118,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item two--> */}
-                <section class="single-items center-block parallax" id="bumn" style={{background: "url(https://i.imgur.com/r7TjEzq.jpg)"}}>
+                <section class="single-items center-block parallax" id="bumn" style={{background: "url(innovative/img/single-portfolio2.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6"></div>
@@ -142,7 +144,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item three--> */}
-                <section class="single-items center-block parallax" id="corporate" style={{background: "url(https://i.imgur.com/MFHiV12.jpg)"}}>
+                <section class="single-items center-block parallax" id="corporate" style={{background: "url(innovative/img/single-portfolio3.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
@@ -167,18 +169,28 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item four--> */}
-                <section class="single-items center-block parallax" id="startup" style={{background: "url(https://i.imgur.com/DfaLATq.jpg)"}}>
+                <section class="single-items center-block parallax" id="startup" style={{background: "url(innovative/img/single-portfolio4.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg">Startup<strong> Ecosystem</strong></a>
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Startup Ecosystem</strong></a>
                                     </h3>
-                                    <p class="text-white">Minggu, 29 November 2020 - Sofian Hadiwijaya (Warung Pintar)</p>
-                                    <p class="text-white">Minggu, 29 November 2020 - Gibran (eFishery)</p>
-                                    <p class="text-white">Minggu, 29 November 2020 - Farid (Pasar Laut)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-four" href="ihttps://i.imgur.com/DfaLATq.jpg">View More</a>
+                                    <h4 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>"Memajukan Kearifan Lokal <br/> (Warung, Tambak Ikan dan Nelayan) <br/> dengan Teknologi"</strong> </a>
+                                    </h4>
+                                    <h5 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Minggu, 29 November 2020 Pukul 13:00 - 14:30</strong></a>
+                                    </h5>
+                        
+                                    <p class="text-white">Pembicara:</p>
+                                    <ul>
+                                        <li class= "text-white">Sofian Hadiwijaya - Co-Founder Warung Pintar</li>
+                                        <li class= "text-white">Gibran Huzaifah - CEO eFishery</li>
+                                        <li class= "text-white">Farid Naufal - CEO Aruna</li>
+                                    </ul>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" href="https://bit.ly/RegistrasiSDF20">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -193,7 +205,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item five--> */}
-                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(https://i.imgur.com/RusdbQO.jpg)"}}>
+                <section class="single-items center-block parallax" id="softwareengineer" style={{background: "url(innovative/img/single-portfolio5.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
@@ -212,7 +224,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item six--> */}
-                <section class="single-items center-block parallax" id="it" style={{background: "url(https://i.imgur.com/uK2OZap.jpg)"}}>
+                <section class="single-items center-block parallax" id="it" style={{background: "url(innovative/img/single-portfolio6.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -236,7 +248,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item seven--> */}
-                <section class="single-items center-block item-seven parallax" style={{background: "url(https://i.imgur.com/G0CadAX.jpg)"}}>
+                <section class="single-items center-block item-seven parallax" style={{background: "url(innovative/img/single-portfolio7.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
@@ -254,7 +266,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item eight--> */}
-                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(https://i.imgur.com/GNcTlsF.jpg)"}}>
+                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(innovative/img/single-portfolio8.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -279,7 +291,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item nine--> */}
-                <section class="single-items center-block parallax" style={{background: "url(https://i.imgur.com/TKiPr3A.jpg)"}}>
+                <section class="single-items center-block parallax" style={{background: "url(innovative/img/single-portfolio9.jpg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-5 col-sm-8 col-xs-11">
