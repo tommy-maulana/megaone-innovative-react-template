@@ -30,7 +30,7 @@ class Home extends React.Component{
                             {/* <!--Nav Links--> */}
                             <div class="collapse navbar-collapse" id="megaone">
                                 <div class="navbar-nav ml-auto">
-                                    <a class="nav-link scroll" href="#home">Home</a>
+                                    <a class="nav-link scroll" href="#home">Beranda</a>
                                     <a class="nav-link scroll" href="#bumn">BUMN Go Digital</a>
                                     <a class="nav-link scroll" href="#startup">Startup</a>
                                     <a class="nav-link scroll" href="#softwareengineer">Software Engineer</a>
@@ -118,14 +118,14 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item two--> */}
-                <section class="single-items center-block parallax" id="bumn" style={{background: "url(innovative/img/single-portfolio2.jpg)"}}>
+                <section class="single-items center-block parallax" id="bumn" style={{background: "url(innovative/img/raihan-1.jpeg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6"></div>
                             <div class="col-lg-6 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-two" href="https://i.imgur.com/r7TjEzq.jpg"><strong>BUMN</strong> Go Digital</a>
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg"><strong>BUMN</strong> Teknologi</a>
                                     </h3>
                                     <p class="text-white font-weight-300">Sabtu, 28 November 2020 10:00 - 12:00 PT Pupuk Sriwijaya</p>
                                     <p class="text-white font-weight-300">Sabtu, 28 November 2020 13:00 - 15:00 PT Semen Baturaja</p>
@@ -266,7 +266,7 @@ class Home extends React.Component{
                 </section>
 
                 {/* <!--Single portfolio item eight--> */}
-                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(innovative/img/single-portfolio8.jpg)"}}>
+                <section class="single-items center-block parallax" id="Daftar" style={{background: "url(innovative/img/raihan-1.jpeg)"}}>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 center-col">
@@ -274,7 +274,7 @@ class Home extends React.Component{
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
                                         <a data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">Daftar & <strong>Sponsor</strong></a>
                                     </h3>
-                                    <p class="text-white">Disini untuk space untuk para Donator dan Sponsor</p>
+                                    <p class="text-white">Seth Sport Palembang</p>
                                     <p class="text-white">Bisa juga untuk space endorse dan sejenisnya</p>
                                     <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">View More</a>
                                 </div>
