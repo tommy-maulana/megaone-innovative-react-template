@@ -31,10 +31,10 @@ class Home extends React.Component{
                             <div class="collapse navbar-collapse" id="megaone">
                                 <div class="navbar-nav ml-auto">
                                     <a class="nav-link scroll" href="#home">Beranda</a>
-                                    <a class="nav-link scroll" href="#bumn">BUMN Go Digital</a>
-                                    <a class="nav-link scroll" href="#startup">Startup</a>
+                                    <a class="nav-link scroll" href="#bumn">Digital</a>
                                     <a class="nav-link scroll" href="#softwareengineer">Software Engineer</a>
-                                    <a class="nav-link scroll" href="#it">IT</a>
+                                    <a class="nav-link scroll" href="#it">Kolaborasi</a>
+                                    <a class="nav-link scroll" href="#startup">Startup</a>
                                     <a class="nav-link scroll" href="#Daftar">Daftar</a>
                                 </div>
                             </div>
@@ -58,16 +58,16 @@ class Home extends React.Component{
                                         <a class="nav-link scroll" href="#home">Beranda</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#bumn">BUMN Go Digital</a>
+                                        <a class="nav-link scroll" href="#bumn">Transformasi Digital</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#startup">Startup</a>
+                                        <a class="nav-link scroll" href="#softwareengineer">Karier Software Engineer</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#softwareengineer">Software Engineer</a>
+                                        <a class="nav-link scroll" href="#it">Kolaborasi Tech Talent</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link scroll" href="#it">IT</a>
+                                        <a class="nav-link scroll" href="#startup">Ekosistem Startup Nasional</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link scroll" href="#Daftar">Daftar</a>
@@ -125,11 +125,23 @@ class Home extends React.Component{
                             <div class="col-lg-6 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg"><strong>BUMN</strong> Teknologi</a>
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg">Transformasi <strong>Digital</strong></a>
                                     </h3>
-                                    <p class="text-white font-weight-300">Sabtu, 28 November 2020 10:00 - 12:00 PT Pupuk Sriwijaya</p>
-                                    <p class="text-white font-weight-300">Sabtu, 28 November 2020 13:00 - 15:00 PT Semen Baturaja</p>
-                                    <p class="text-white font-weight-300">Sabtu, 28 November 2020 16:00 - 18:00 PT Bank Rakyat Indonesia, Tbk</p>
+                                    <h4 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Transformasi Digital disektor <br/> perbankan, produksi dan pemerintah</strong> </a>
+                                    </h4>
+                                    <br/>
+                                    <br/>
+                                    <p class="text-white font-weight-300"><strong>Pigar</strong> - <i>Head of Digital Labs</i>, PT Semen Baturaja</p>
+                                    <p class="text-white font-weight-300"><strong>Adelia April Lisianti</strong> - <i>Digital Product Manager</i>, Bank BNI</p>
+                                    <p class="text-white font-weight-300"><strong>Hengki Sihombing</strong> - <i>Direktur Operasi Kartu</i>, Prakerja</p>
+                                    <p class="text-white font-weight-300"><strong>M Ramadhan A</strong> - <i>VP IT Business Partner & Services</i>, Pusri</p>
+                                    <br/>
+                                    <br/>
+                                    <br/>
+                                    <h8 class="area-title text-capitalize alt-font text-white mb-2 font-weight-50">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"> <strong>- Sabtu, 28 November 2020 -</strong></a>
+                                    </h8>
                                 </div>
                             </div>
                         </div>
@@ -149,12 +161,23 @@ class Home extends React.Component{
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
-                                    <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-three" href="https://i.imgur.com/MFHiV12.jpg">Tambahan Panel</a>
+                                <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg">Karier <strong>Software Engineer</strong></a>
                                     </h3>
-                                    <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
-                                    <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="https://i.imgur.com/MFHiV12.jpg">View More</a>
+                                    <h4 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Berbagi Perjalanan dan Pengalaman dalam Memulai Karir Sebagai <br/> Software Engineer</strong> </a>
+                                    </h4>
+                                    <br/>
+                                    <br/>
+                                    <p class="text-white font-weight-300"><strong>Arief Rahmansyah</strong> - <i>Machine Learning Engineer</i>, Gojek Singapore</p>
+                                    <p class="text-white font-weight-300"><strong>Faisal Morensya</strong> - <i>Software Engineer</i>, Talabat Dubai</p>
+                                    <p class="text-white font-weight-300"><strong>Zaki Al-Afrani</strong> - <i>Technical Architect</i>, Tokopedia</p>
+                                    <br/>
+                                    <br/>
+                                    <br/>
+                                    <h8 class="area-title text-capitalize alt-font text-white mb-2 font-weight-50">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"> <strong>- Sabtu, 28 November 2020 -</strong></a>
+                                    </h8>
                                 </div>
                             </div>
                         </div>
@@ -174,23 +197,23 @@ class Home extends React.Component{
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
-                                    <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Startup Ecosystem</strong></a>
+                                <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg"><strong>Collaboration</strong> for Tech Sumsel</a>
                                     </h3>
                                     <h4 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>"Memajukan Kearifan Lokal <br/> (Warung, Tambak Ikan dan Nelayan) <br/> dengan Teknologi"</strong> </a>
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Peran Komunitas, Lembaga Kursus dan Kampus <br/> dalam Mengembangkan Talent Digital <br/> di Sumatera Selatan.</strong> </a>
                                     </h4>
-                                    <h5 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Minggu, 29 November 2020 Pukul 13:00 - 14:30</strong></a>
-                                    </h5>
-                        
-                                    <p class="text-white">Pembicara:</p>
-                                    <ul>
-                                        <li class= "text-white">Sofian Hadiwijaya - Co-Founder Warung Pintar</li>
-                                        <li class= "text-white">Gibran Huzaifah - CEO eFishery</li>
-                                        <li class= "text-white">Farid Naufal - CEO Aruna</li>
-                                    </ul>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" href="https://bit.ly/RegistrasiSDF20">View More</a>
+                                    <br/>
+                                    <br/>
+                                    <p class="text-white font-weight-300"><strong>Joneten Saputra</strong> - <i>Head of</i>, Palembang Digital</p>
+                                    <p class="text-white font-weight-300"><strong>Ahmad Farisi</strong> - <i>Informatics Lecturer</i>, MDP</p>
+                                    <p class="text-white font-weight-300"><strong>Malian Zikri</strong> - <i>CEO</i>, Digital Creative</p>
+                                    <br/>
+                                    <br/>
+                                    <br/>
+                                    <h8 class="area-title text-capitalize alt-font text-white mb-2 font-weight-50">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"> <strong>- Minggu, 29 November 2020 -</strong></a>
+                                    </h8>
                                 </div>
                             </div>
                         </div>
@@ -210,13 +233,23 @@ class Home extends React.Component{
                         <div class="row">
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
-                                    <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-five" href="https://i.imgur.com/RusdbQO.jpg">Software Engineer</a>
+                                <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg">Ekosistem <strong>Startup</strong> Nasional</a>
                                     </h3>
-                                    <p class="text-white">Arief Rahmansyah (GOJEK Singapore)</p>
-                                    <p class="text-white">Faisal Morensya (Talabat Dubai)</p>
-                                    <p class="text-white">Zaki Al Farani (Tokopedia)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-three" href="https://i.imgur.com/RusdbQO.jpg">View More</a>
+                                    <h4 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Startup yang Melirik Kearifan Lokal (Warung, Tambak Ikan, dan Nelayan)</strong> </a>
+                                    </h4>
+                                    <br/>
+                                    <br/>
+                                    <p class="text-white font-weight-300"><strong>Farid Naufal</strong> - <i>CEO & Co. Founder</i>, Aruna.id</p>
+                                    <p class="text-white font-weight-300"><strong>Sofian Hadiwijaya</strong> - <i>CTO & Co. Founder</i>, Warung Pintar</p>
+                                    <p class="text-white font-weight-300"><strong>Gibran Huzaifah</strong> - <i>CEO & Co. Founder</i>, e-Fishery</p>
+                                    <br/>
+                                    <br/>
+                                    <br/>
+                                    <h8 class="area-title text-capitalize alt-font text-white mb-2 font-weight-50">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"> <strong>- Minggu, 29 November 2020 -</strong></a>
+                                    </h8>
                                 </div>
                             </div>
                         </div>
@@ -229,11 +262,23 @@ class Home extends React.Component{
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
-                                    <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-six" href="https://i.imgur.com/uK2OZap.jpg">Information Technology</a>
+                                <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-two" href="https://i.imgur.com/ANLGPqA.jpg"><strong>Jadwal</strong> & <strong>Daftar</strong></a>
                                     </h3>
-                                    <p class="text-white">Minggu, 29 November 2020 - Roylisto Perdana (Kredivo)</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-six" href="https://i.imgur.com/uK2OZap.jpg">View More</a>
+                                    <br/>
+                                    <br/>
+                                    <h5 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Sabtu, 28 November 2020</strong> </a>
+                                    </h5>
+                                    <p class="text-white font-weight-300"><strong>Transformasi Digital</strong> : <i>11.00 - 12.30</i></p>
+                                    <p class="text-white font-weight-300"><strong>Karier Software Engineer</strong> : <i>13.00 - 14.30</i></p>
+                                    <br/>
+                                    <h5 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-four" href="https://i.imgur.com/DfaLATq.jpg"><strong>Minggu, 29 November 2020</strong> </a>
+                                    </h5>
+                                    <p class="text-white font-weight-300"><strong>Collaboration For Talent Tech Sumsel</strong> : <i>10.10 - 11.50</i></p>
+                                    <p class="text-white font-weight-300"><strong>Ekosistem Startup Nasional</strong> : <i>13.00 - 14.30</i></p>
+                                    <a href="https://bit.ly/RegistrasiSDF20" class="btn btn-transparent-white btn-rounded btn-rounded btn-large mt-3">Daftar Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -254,10 +299,9 @@ class Home extends React.Component{
                             <div class="col-lg-6 col-md-8">
                                 <div class="area-heading text-left wow fadeInLeft">
                                     <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-seven" href="https://i.imgur.com/G0CadAX.jpg">Tambahan <strong>Panel</strong></a>
+                                        <a data-fancybox="group-seven" href="https://i.imgur.com/G0CadAX.jpg"><strong>Sponsorship</strong> Partner</a>
                                     </h3>
-                                    <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
-                                    <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
+                                    <p class="text-white">List Sponsorship..</p>
                                     <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/G0CadAX.jpg">View More</a>
                                 </div>
                             </div>
@@ -271,12 +315,11 @@ class Home extends React.Component{
                         <div class="row">
                             <div class="col-md-12 center-col">
                                 <div class="area-heading text-right wow fadeInRight">
-                                    <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">Daftar & <strong>Sponsor</strong></a>
+                                <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-seven" href="https://i.imgur.com/G0CadAX.jpg"><strong>Community</strong> Partner</a>
                                     </h3>
-                                    <p class="text-white">Seth Sport Palembang</p>
-                                    <p class="text-white">Bisa juga untuk space endorse dan sejenisnya</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/GNcTlsF.jpg">View More</a>
+                                    <p class="text-white">List Compar..</p>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/G0CadAX.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
@@ -296,12 +339,11 @@ class Home extends React.Component{
                         <div class="row">
                             <div class="col-md-5 col-sm-8 col-xs-11">
                                 <div class="area-heading text-left wow fadeInLeft">
-                                    <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
-                                        <a data-fancybox="group-nine" href="ihttps://i.imgur.com/TKiPr3A.jpg">Tambahan <strong>Panel</strong></a>
+                                <h3 class="area-title text-capitalize alt-font text-white mb-2 font-weight-100">
+                                        <a data-fancybox="group-seven" href="https://i.imgur.com/G0CadAX.jpg"><strong>Media</strong> Partner</a>
                                     </h3>
-                                    <p class="text-white">Disini untuk space jika ada tambahan panel 28-29 November</p>
-                                    <p class="text-white">Bisa juga untuk space iklan dari para sponsor sriwijaya digital</p>
-                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/TKiPr3A.jpg">View More</a>
+                                    <p class="text-white">List Medpar..</p>
+                                    <a class="btn btn-transparent-white btn-rounded btn-large mt-3" data-fancybox="group-eight" href="https://i.imgur.com/G0CadAX.jpg">View More</a>
                                 </div>
                             </div>
                         </div>
